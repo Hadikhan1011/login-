@@ -1,0 +1,14 @@
+Commands for github:
+
+Clone a repo:
+git clone repoUrl
+
+
+Check repo status:
+git status
+
+
+Push code:
+1) git add .
+2) git commit -m "create a login"
+3) git push -u origin main
